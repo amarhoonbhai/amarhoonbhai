@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=wavy&color=e23636&height=250&section=header&text=Spectacular%20Amar&fontSize=70&animation=fadeIn&fontAlignY=38&desc=%E0%A4%B8%E0%A4%B0%E0%A5%8D%E0%A4%B5%E0%A5%87%20%E0%A4%AD%E0%A4%B5%E0%A4%A8%E0%A5%8D%E0%A4%A4%E0%A5%81%20%E0%A4%B8%E0%A5%81%E0%A4%96%E0%A4%BF%E0%A4%A8%E0%A5%8D%3A%20%F0%9F%95%B7%EF%B8%8F&descAlign=50&descAlignY=60&fontColor=ffffff" />
+<img src="https://capsule-render.vercel.app/api?type=wavy&color=e23636&height=250&section=header&text=Spectacular%20Amar&fontSize=70&animation=fadeIn" />
 
 <br/>
 
@@ -14,18 +14,18 @@
 
 ### 🕸️ The Spectacular Deck
 
-<table align="center" style="margin: auto;">
+<table align="center">
   <tr>
     <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=amarhoonbhai&show_icons=true&theme=dracula&hide_border=true&bg_color=0D1117&title_color=e23636&icon_color=5187ec&text_color=ffffff" height="170px" />
+      <img src="https://github-readme-stats.vercel.app/api?username=amarhoonbhai&show_icons=true&theme=dracula&title_color=e23636&icon_color=5187ec&hide_border=true" />
     </td>
     <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amarhoonbhai&layout=compact&theme=dracula&hide_border=true&bg_color=0D1117&title_color=e23636&text_color=ffffff" height="170px" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amarhoonbhai&layout=compact&theme=dracula&title_color=e23636&hide_border=true" />
     </td>
   </tr>
   <tr>
     <td colspan="2" align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=amarhoonbhai&theme=dracula&background=0D1117&ring=e23636&fire=5187ec&currStreakNum=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff" width="100%" />
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=amarhoonbhai&theme=dracula&ring=e23636&fire=5187ec" />
     </td>
   </tr>
 </table>
@@ -67,7 +67,7 @@ I build <b>digital harmonies</b> with the agility of a spider. My code is a mix 
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wavy&color=e23636&height=100&section=footer&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=wavy&color=e23636&height=100&section=footer" />
 </div>
 
 </div>
