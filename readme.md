@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="images/header.svg?v=1" width="100%" />
+<img src="images/banner_no_deadcode.svg" width="100%" />
 
 <br/>
 
