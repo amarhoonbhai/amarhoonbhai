@@ -18,13 +18,14 @@
         fill: white;
         font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
         font-weight: 900;
-        font-size: 50px;
+        font-size: 60px;
         filter: drop-shadow(0 4px 4px rgba(0,0,0,0.8));
+        letter-spacing: -2px;
       }
       .text-sub {
         fill: #fff;
         font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-        font-size: 20px;
+        font-size: 18px;
         font-weight: bold;
         opacity: 0.8;
       }
@@ -48,16 +49,14 @@
 
   <!-- Venom Side (Right) -->
   <g clip-path="inset(0 0 0 50%)">
-    <!-- Symbiote Tendrils -->
     <path d="M500,20 Q550,50 500,80 T500,140 T500,200" fill="none" stroke="white" stroke-width="2" opacity="0.3" />
     <path d="M700,40 Q650,80 700,120 T700,200" fill="none" stroke="white" stroke-width="2" opacity="0.3" />
-    <!-- Venom Eyes -->
     <path d="M550,100 Q600,60 680,110 Q650,140 550,100 Z" class="venom-eye glitch" />
   </g>
 
   <!-- Central Text -->
-  <text x="400" y="120" text-anchor="middle" class="text-main">DEADLY COMBO</text>
-  <text x="400" y="160" text-anchor="middle" class="text-sub">Amar x Symbiote</text>
+  <text x="400" y="120" text-anchor="middle" class="text-main">No DeadCode</text>
+  <text x="400" y="160" text-anchor="middle" class="text-sub">Eliminating errors with lethal precision.</text>
 
   <!-- Border -->
   <rect x="10" y="10" width="780" height="230" fill="none" stroke="rgba(255,255,255,0.1)" stroke-width="2" rx="10" />

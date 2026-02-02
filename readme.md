@@ -10,10 +10,10 @@
       <img src="images/spidey_hanging.svg" width="150px" />
     </td>
     <td width="75%" align="center">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=e23636&center=true&vCenter=true&width=1000&lines=Deadly+Combo+Initiated+%F0%9F%95%B8%EF%B8%8F;Spectacular+x+Savage+%F0%9F%91%BD;Web-Slinging+x+Symbiote+%E2%9C%A8;Engineering+with+Great+Responsibility+%F0%9F%95%B7%EF%B8%8F" />
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=e23636&center=true&vCenter=true&width=1000&lines=No+DeadCode:%20The+Lethal+Clean;Debugging+with+Symbiote+Speed+%F0%9F%91%BD;Optimized+to+Perfection+%E2%9C%A8;Where+Code+Lives+and+Bugs+Die+%F0%9F%95%B7%EF%B8%8F" />
       <br/>
       <p align="center">
-        <img src="https://komarev.com/ghpvc/?username=amarhoonbhai&label=Combo%20Sensors&color=1a1a1a&style=for-the-badge" alt="amarhoonbhai" />
+        <img src="https://komarev.com/ghpvc/?username=amarhoonbhai&label=Clean%20Sensors&color=1a1a1a&style=for-the-badge" alt="amarhoonbhai" />
       </p>
     </td>
   </tr>
