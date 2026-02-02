@@ -23,13 +23,9 @@
 
 ### 🕸️ The Lethal Metrics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amarhoonbhai&show_icons=true&theme=dracula&title_color=e23636&icon_color=e23636&text_color=ffffff&bg_color=1a1a1a&hide_border=true" width="400" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amarhoonbhai&layout=compact&theme=dracula&title_color=e23636&text_color=ffffff&bg_color=1a1a1a&hide_border=true" width="400" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amarhoonbhai&theme=dracula&ring=e23636&fire=e23636&background=1a1a1a&currStreakNum=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" width="400" />
-</p>
+<div align="center">
+  <i>Lethal metrics and stats are currently being recalibrated with symbiote precision.</i>
+</div>
 
 ---
 
