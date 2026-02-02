@@ -24,11 +24,11 @@
 ### 🕸️ The Deadly Desk
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amarhoonbhai&show_icons=true&theme=radical&title_color=e23636&icon_color=ffffff&hide_border=true&bg_color=0D1117" />
+  <img src="https://github-readme-stats.vercel.app/api?username=amarhoonbhai&show_icons=true&theme=dracula&title_color=e23636&icon_color=e23636&text_color=ffffff&bg_color=1a1a1a&hide_border=true" width="400" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amarhoonbhai&layout=compact&theme=radical&title_color=e23636&hide_border=true&bg_color=0D1117" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amarhoonbhai&layout=compact&theme=dracula&title_color=e23636&text_color=ffffff&bg_color=1a1a1a&hide_border=true" width="400" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amarhoonbhai&theme=radical&ring=e23636&fire=ffffff&background=0D1117&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amarhoonbhai&theme=dracula&ring=e23636&fire=e23636&background=1a1a1a&currStreakNum=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" width="400" />
 </p>
 
 ---
