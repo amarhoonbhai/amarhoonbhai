@@ -21,7 +21,7 @@
 
 ---
 
-### 🕸️ The Deadly Desk
+### 🕸️ The Lethal Metrics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=amarhoonbhai&show_icons=true&theme=dracula&title_color=e23636&icon_color=e23636&text_color=ffffff&bg_color=1a1a1a&hide_border=true" width="400" />
@@ -36,13 +36,13 @@
 ### 👋 Ethereal Vibes from Amar
 
 <div align="left">
-I build <b>digital harmonies</b> with the power of the symbiote and the agility of a spider. My code is a deadly mix of technical precision and spectacular flow.
+I build <b>digital harmonies</b> with the power of the symbiote and the agility of a spider. My code is a lethal mix of technical precision and spectacular flow.
 
 > **“ सर्वे भवन्तु सुखिनः सर्वे सन्तु निरामयाः "**  
 > *(May all beings be peaceful and free from suffering)*
 
 - 🎹 **PhiloMusic**: Crafting tools at the intersection of music and code.
-- 🕷️ **Deadly Architect**: Solving problems with great responsibility and savage power.
+- 🕷️ **Clean Architect**: Solving problems with great responsibility and savage power.
 - 🕉️ **Balance**: Engineering with soul.
 </div>
 
