@@ -4,11 +4,20 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=5187ec&center=true&vCenter=true&width=1000&lines=Friendly+Neighborhood+Coder+%F0%9F%95%B7%EF%B8%8F;Spectacular+Architect+%F0%9F%8F%99%EF%B8%8F;Spiritual+Engineer+%E2%9C%A8;Web-Slinging+Code+%26+Harmonies+%F0%9F%95%B8%EF%B8%8F" />
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=amarhoonbhai&label=Spidey%20Sensors&color=e23636&style=for-the-badge" alt="amarhoonbhai" />
-</p>
+<table width="100%" border="0">
+  <tr>
+    <td width="25%" align="center">
+      <img src="images/spidey_hanging.svg" width="150px" />
+    </td>
+    <td width="75%" align="center">
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=5187ec&center=true&vCenter=true&width=1000&lines=Friendly+Neighborhood+Coder+%F0%9F%95%B7%EF%B8%8F;Spectacular+Architect+%F0%9F%8F%99%EF%B8%8F;Spiritual+Engineer+%E2%9C%A8;Web-Slinging+Code+%26+Harmonies+%F0%9F%95%B8%EF%B8%8F" />
+      <br/>
+      <p align="center">
+        <img src="https://komarev.com/ghpvc/?username=amarhoonbhai&label=Spidey%20Sensors&color=e23636&style=for-the-badge" alt="amarhoonbhai" />
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
