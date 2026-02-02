@@ -1,13 +1,13 @@
 <div align="center">
 
-<img src="images/header.svg" width="100%" />
+<img src="images/header.svg?v=1" width="100%" />
 
 <br/>
 
 <table width="100%" border="0">
   <tr>
     <td width="25%" align="center">
-      <img src="images/spidey_hanging.svg" width="150px" />
+      <img src="images/spidey_hanging.svg?v=1" width="150px" />
     </td>
     <td width="75%" align="center">
       <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=e23636&center=true&vCenter=true&width=1000&lines=No+DeadCode:%20The+Lethal+Clean;Debugging+with+Symbiote+Speed+%F0%9F%91%BD;Optimized+to+Perfection+%E2%9C%A8;Where+Code+Lives+and+Bugs+Die+%F0%9F%95%B7%EF%B8%8F" />
@@ -67,6 +67,6 @@ I build <b>digital harmonies</b> with the power of the symbiote and the agility 
 
 ---
 
-<img src="images/footer.svg" width="100%" />
+<img src="images/footer.svg?v=1" width="100%" />
 
 </div>
