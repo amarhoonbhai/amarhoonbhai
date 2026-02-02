@@ -1,0 +1,66 @@
+<svg width="800" height="200" viewBox="0 0 800 200" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    @keyframes pulse {
+      0% { opacity: 0.6; }
+      50% { opacity: 1; }
+      100% { opacity: 0.6; }
+    }
+    .web-line {
+      stroke: rgba(255, 255, 255, 0.2);
+      stroke-width: 1;
+      fill: none;
+    }
+    .text-main {
+      fill: white;
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      font-weight: 900;
+      font-size: 48px;
+      letter-spacing: 2px;
+      text-transform: uppercase;
+      filter: drop-shadow(0 4px 4px rgba(0,0,0,0.5));
+    }
+    .text-sub {
+      fill: #5187ec;
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      font-size: 18px;
+      font-weight: bold;
+    }
+    .spidey-eye {
+      fill: white;
+      stroke: black;
+      stroke-width: 4;
+    }
+    .glow {
+      animation: pulse 2s infinite ease-in-out;
+    }
+  </style>
+
+  <!-- Background -->
+  <rect width="800" height="200" fill="#e23636" rx="10" />
+  
+  <!-- Web Pattern -->
+  <g class="glow">
+    <circle cx="400" cy="100" r="150" class="web-line" />
+    <circle cx="400" cy="100" r="100" class="web-line" />
+    <circle cx="400" cy="100" r="50" class="web-line" />
+    <line x1="400" y1="100" x2="800" y2="0" class="web-line" />
+    <line x1="400" y1="100" x2="800" y2="200" class="web-line" />
+    <line x1="400" y1="100" x2="0" y2="0" class="web-line" />
+    <line x1="400" y1="100" x2="0" y2="200" class="web-line" />
+    <line x1="400" y1="100" x2="400" y2="0" class="web-line" />
+    <line x1="400" y1="100" x2="400" y2="200" class="web-line" />
+    <line x1="400" y1="100" x2="0" y2="100" class="web-line" />
+    <line x1="400" y1="100" x2="800" y2="100" class="web-line" />
+  </g>
+
+  <!-- Spiderman Eyes Pattern -->
+  <path d="M50,150 Q100,100 150,150 Z" class="spidey-eye" transform="translate(600, -80) scale(0.5)" />
+  <path d="M50,150 Q0,100 -50,150 Z" class="spidey-eye" transform="translate(200, -80) scale(0.5)" />
+
+  <!-- Text -->
+  <text x="400" y="100" text-anchor="middle" class="text-main">Spectacular Amar</text>
+  <text x="400" y="140" text-anchor="middle" class="text-sub">Spectacular Code &amp; Great Responsibility</text>
+  
+  <!-- "Spider-Sense" Border -->
+  <rect x="5" y="5" width="790" height="190" fill="none" stroke="#5187ec" stroke-width="2" rx="5" opacity="0.5" />
+</svg>

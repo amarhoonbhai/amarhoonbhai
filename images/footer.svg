@@ -1,0 +1,33 @@
+<svg width="800" height="100" viewBox="0 0 800 100" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .web-line {
+      stroke: rgba(255, 255, 255, 0.2);
+      stroke-width: 1;
+      fill: none;
+    }
+  </style>
+
+  <!-- Background -->
+  <rect width="800" height="100" fill="#e23636" rx="10" />
+  
+  <!-- Web Pattern -->
+  <g opacity="0.4">
+    <path d="M0,50 Q100,0 200,50 T400,50 T600,50 T800,50" class="web-line" />
+    <path d="M0,30 Q100,80 200,30 T400,30 T600,30 T800,30" class="web-line" />
+    <circle cx="400" cy="50" r="30" class="web-line" />
+    <line x1="400" y1="50" x2="800" y2="0" class="web-line" />
+    <line x1="400" y1="50" x2="0" y2="0" class="web-line" />
+    <line x1="400" y1="50" x2="400" y2="100" class="web-line" />
+  </g>
+
+  <!-- Spider Silhouette -->
+  <g transform="translate(385, 35) scale(0.3)" fill="white">
+    <circle cx="50" cy="50" r="20" />
+    <circle cx="50" cy="80" r="25" />
+    <!-- Legs -->
+    <path d="M50,50 Q20,20 0,50" stroke="white" stroke-width="8" fill="none" />
+    <path d="M50,50 Q80,20 100,50" stroke="white" stroke-width="8" fill="none" />
+    <path d="M50,80 Q20,110 0,80" stroke="white" stroke-width="8" fill="none" />
+    <path d="M50,80 Q80,110 100,80" stroke="white" stroke-width="8" fill="none" />
+  </g>
+</svg>

@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=wavy&color=e23636&height=250&section=header&text=Spectacular%20Amar&fontSize=70&animation=fadeIn" />
+<img src="images/header.svg" width="100%" />
 
 <br/>
 
@@ -66,8 +66,6 @@ I build <b>digital harmonies</b> with the agility of a spider. My code is a mix 
 
 ---
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wavy&color=e23636&height=100&section=footer" />
-</div>
+<img src="images/footer.svg" width="100%" />
 
 </div>
