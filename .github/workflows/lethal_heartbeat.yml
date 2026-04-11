@@ -1,0 +1,27 @@
+name: Lethal Heartbeat
+
+on:
+  schedule:
+    - cron: "0 0,8,16 * * *" # Runs 3 times a day
+  workflow_dispatch: # Allows manual trigger
+
+jobs:
+  heartbeat:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+
+      - name: Symbiote Pulse
+        run: |
+          git config --global user.name "अमर"
+          git config --global user.email "120897603+amarhoonbhai@users.noreply.github.com"
+          for i in {1..20}
+          do
+            echo "Lethal Pulse $i at $(date)" >> .lethal_heartbeat
+            git add .lethal_heartbeat
+            git commit -m "🕷️ lethal_heartbeat: symbiote pulse detected ($i/20)"
+          done
+          git push
