@@ -1,0 +1,58 @@
+name: Achievement Unlocker
+
+on:
+  workflow_dispatch:
+
+jobs:
+  unlock:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      issues: write
+      pull-requests: write
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+        with:
+          fetch-depth: 0
+
+      - name: Quickdraw (Issue)
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          echo "Opening and closing an issue for Quickdraw..."
+          issue_url=$(gh issue create --title "🕷️ Achievement Hunting: Symbiote Target" --body "Unlocking the Quickdraw achievement." --label "enhancement")
+          issue_number=$(echo $issue_url | grep -oE "[0-9]+$")
+          gh issue close $issue_number --comment "Target eliminated."
+
+      - name: Pull Shark, YOLO & Pair Extraordinaire (PRs)
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          git config --global user.name "अमर"
+          git config --global user.email "120897603+amarhoonbhai@users.noreply.github.com"
+          
+          echo "Processing 16 Merges for Tiered Achievements..."
+          for i in {1..16}
+          do
+            echo "--- Run $i ---"
+            branch_name="achievement-pulse-$i-$(date +%s)"
+            git checkout -b $branch_name
+            echo "Achievement pulse $i at $(date)" >> .achievement_log
+            git add .achievement_log
+            
+            # Commit with Co-author for Pair Extraordinaire
+            git commit -m "🚀 achievement: lethal strike $i
+            
+            Co-authored-by: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>"
+            
+            git push origin $branch_name
+            
+            # Create and Merge PR for Pull Shark, YOLO, and Quickdraw
+            pr_url=$(gh pr create --title "🕷️ Lethal PR #$i" --body "Automated achievement sequence." --base main --head $branch_name)
+            gh pr merge --squash --delete-branch "$pr_url"
+            
+            git checkout main
+            git pull origin main
+            sleep 2 # Small delay to avoid secondary rate limits
+          done
